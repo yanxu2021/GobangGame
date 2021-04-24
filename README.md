@@ -6,8 +6,8 @@
 >The winner is the first player to get an unbroken row of five Go pieces horizontally, vertically, or diagonally.
 
 ## Table of contents
-* [Step 1 Concept Investigation](#step1)
-* [Step 2 Project Selection](#step2)
+* [Step 1 Concept Investigation](#Step 1 Concept Investigation)
+* [Step 2 Project Selection](#Step2 Project Selection)
 * [Step 3 Concept Presentation](#step3)
 * [Step 4 Database Conceptual Design](#step4)
 * [Step 5 Database Entity (ERD) Design](#step5)
@@ -16,10 +16,12 @@
 * [Step 8 Test Planning & RTM](#step8)
 * [Step 9 Application Prototype](#step9)
 * [Step 10 In-Process Review (IPR)](#step10)
-* [Step 11 Model Classes](#step11)
-* [Step 12 Data Integration](#step12)
-* [Step 13 Sprint Planning](#step13)
+* [Step 11 Model Classes](#Step11 Model Classes)
+* [Step 12 Data Integration](#Step12 Data Integration)
+* [Step 13 Sprint Planning](#Step13 Sprint Planning)
 
-## step11
+## Step11 Model Classes
+## Step12 Data Integration
+## Step13 Sprint Planning
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!

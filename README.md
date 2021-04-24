@@ -16,9 +16,9 @@
 * [Step 8 Test Planning & RTM](#step8)
 * [Step 9 Application Prototype](#step9)
 * [Step 10 In-Process Review (IPR)](#step10)
-* [Step 11 Model Classes](#Step11 Model Classes)
-* [Step 12 Data Integration](#Step12 Data Integration)
-* [Step 13 Sprint Planning](#Step13 Sprint Planning)
+* [Step 11 Model Classes](#Step11)
+* [Step 12 Data Integration](#Step12)
+* [Step 13 Sprint Planning](#Step13)
 
 ## Step11 Model Classes
 ## Step12 Data Integration

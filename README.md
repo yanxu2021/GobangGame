@@ -32,7 +32,19 @@
     <li><a href="">Auto-generate a databse diagram.</a></li>
     </ul>
   </p>
+  
 ## Step12
+<p>The project database tables and model classes are connected. Using code, connect to the database and create a controller and simple view which displays data read from tables and enables data taken from a simple user interface and storing the new or modified data back to the databse.</p>
+<p>Deliverable requirements:
+  <ul>
+    <li><a href="">Screenshot of SSMS showing data stored in tables</a></li>
+    <li><a href="">Screenshot of application view showing data retrieved from the database and displayed on the page.</a></li>
+    <li><a href="">Screenshot of the application demonstrating how the data is collected from the application(a form?).</a></li>
+    <li><a href="">Screenshot of the view showing how the data has changed.</a></li>
+    </ul>
+  </p>
+
 ## Step13
+
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!

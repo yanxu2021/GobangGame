@@ -27,7 +27,7 @@
   <ul>
     <li>Project folders for Models,Views, and Controllers.</a></li>
     <img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/1Folders%20for%20MVC.JPG">
-    <li><a href="">Within Models folder-C# class files which describe and map to database table entities</a></li>
+    <li><a href="https://github.com/yanxu2021/GobangGame/tree/master/GobangGame/Models">Within Models folder-C# class files which describe and map to database table entities</a></li>
     <li>Develop the interface.</li>
     <li>The primary data model, which the data model implements.</li>
     <li>Create a "Fake" or "TestDouble"class which also implements the data interface.</li>

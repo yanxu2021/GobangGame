@@ -20,7 +20,7 @@
 * [Step 12 Data Integration](#Step12)
 * [Step 13 Sprint Planning](#Step13)
 
-## Step11 Model Classes(#Step11)
+## Step11
 ## Step12 Data Integration
 ## Step13 Sprint Planning
 ## Contact

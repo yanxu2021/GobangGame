@@ -1,0 +1,26 @@
+﻿@model IQueryable<Game>
+@foreach (var g in Model)
+{
+    <div>
+        <h3>@g.ID</h3>
+        @g.PlayerID
+        <h4>@g.PlayerName</h4>
+    </div>
+}
+
+<h3>Welcome to Gobang Game!</h3>
+<p><h4>Gobang is a two-player abstrat strategy game generally played with Go pieces on a 15*15 Go Board.</h4></p>
+
+<p><h4>The objective of the game is to be the first player to create a sequence of five same-colored pieces vertically, horizontally, or diagonally</h4></p>
+
+<p><h4>Players alternate turn to place their piece on an empty intersection in the board</h4></p>
+
+<figure>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/81TfLzTkhjL._AC_SL1500_.jpg" alt="Gobang Game" />
+    <br />
+    <figcaption>
+        Gobang Game
+    </figcaption>
+</figure>
+
+

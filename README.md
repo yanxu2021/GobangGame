@@ -24,7 +24,7 @@
 <p>Working from the design, and implement the data model components of the project using Entity Framework to map the classes to the database table entities and the tables to the classes.</p>
 <p>Deliverable requirements:
   <ul>
-    <li><a href="">Project folders for Models,Views, and Controllers.</a></li>
+    <li><a href="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/1Folders%20for%20MVC.JPG">Project folders for Models,Views, and Controllers.</a></li>
     <li><a href="">Within Models folder-C# class files which describe and map to database table entities</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>

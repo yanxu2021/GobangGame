@@ -21,7 +21,7 @@
 * [Step 13 Sprint Planning](#Step13)
 
 ## Step11
-## Step12 Data Integration
-## Step13 Sprint Planning
+## Step12
+## Step13
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!

@@ -47,6 +47,13 @@
   </p>
 
 ## Step13
+<p>Accordingly,plan the remaining work and the upcoming sprint starting with creating the formal prioritized product backlog items(PBIs) in the project repository.</p>
+<p>Deliverable requirements:
+  <ul>
+    <li><a href="">From the issues tab in GitHub, add new issues. A well-constructed issue contain: A user story/Acceptance criteria/Additional supporting information such as diagrams, descriptions, screen captures, error messages, etc.</a></li>
+    <li><a href="">Create a project board from the repository and add prioritized issues from the backlog. ToDo/InProcess/Done.</a></li>
+    </ul>
+  </p>
 
 ## Step14
 

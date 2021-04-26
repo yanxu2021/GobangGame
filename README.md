@@ -32,6 +32,7 @@
     <li>The primary data model, which the data model implements.</li>
     <li>Create a "Fake" or "TestDouble"class which also implements the data interface.</li>
     <li>Auto-generate a databse diagram.</li>
+    <img src="https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG">
     </ul>
   </p>
   

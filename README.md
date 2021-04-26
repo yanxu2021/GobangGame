@@ -39,14 +39,14 @@
 <p>The project database tables and model classes are connected. Using code, connect to the database and create a controller and simple view which displays data read from tables and enables data taken from a simple user interface and storing the new or modified data back to the databse.</p>
 <p>Deliverable requirements:
   <ul>
-    <li><a href="">Screenshot of SSMS showing data stored in tables</a></li>
+    <li>Screenshot of SSMS showing data stored in tables</li>
     <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/9.JPG">
     <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
-    <li><a href="">Screenshot of application view showing data retrieved from the database and displayed on the page.</a></li>
+    <li>Screenshot of application view showing data retrieved from the database and displayed on the page.</li>
        <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/12.JPG">
-    <li><a href="">Screenshot of the application demonstrating how the data is collected from the application(a form?).</a></li>
+    <li>Screenshot of the application demonstrating how the data is collected from the application(a form?).</li>
        <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
-    <li><a href="">Screenshot of the view showing how the data has changed.</a></li>
+    <li>Screenshot of the view showing how the data has changed.</li>
        <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/13.JPG">
     
     </ul>

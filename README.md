@@ -47,8 +47,7 @@
     <li>Screenshot of the application demonstrating how the data is collected from the application(a form?).</li>
        <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
     <li>Screenshot of the view showing how the data has changed.</li>
-       <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/13.JPG">
-    
+       <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/13.JPG"> 
     </ul>
   </p>
 

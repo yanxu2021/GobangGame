@@ -40,14 +40,14 @@
 <p>Deliverable requirements:
   <ul>
     <li>Screenshot of SSMS showing data stored in tables</li>
-    <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/9.JPG">
-    <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
+    <img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/9.JPG">
+    <img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
     <li>Screenshot of application view showing data retrieved from the database and displayed on the page.</li>
-       <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/12.JPG">
+       <img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/12.JPG">
     <li>Screenshot of the application demonstrating how the data is collected from the application(a form?).</li>
-       <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
+       <img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/17%20View%20Tabels.JPG">
     <li>Screenshot of the view showing how the data has changed.</li>
-       <img src=" https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/13.JPG"> 
+       <img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/13.JPG"> 
     </ul>
   </p>
 

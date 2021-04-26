@@ -19,8 +19,15 @@ using GobangGame.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\yanxu\Desktop\GobangGame\GobangGame\Views\_ViewImports.cshtml"
+using GobangGame.Models.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"928c1c0eca68c83e01f4b4a295ac43171a463d91", @"/Views/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d3a6b58f322f7a1f4b530ec3ff30a4ba4ccd80c7", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"39245561d7f8a3ed2298ca6d4edb9fa058c96b39", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -49,7 +56,7 @@ using GobangGame.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "928c1c0eca68c83e01f4b4a295ac43171a463d913061", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "928c1c0eca68c83e01f4b4a295ac43171a463d913249", async() => {
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>GobangGame</title>\r\n");
             }
             );
@@ -63,7 +70,7 @@ using GobangGame.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "928c1c0eca68c83e01f4b4a295ac43171a463d914125", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "928c1c0eca68c83e01f4b4a295ac43171a463d914313", async() => {
                 WriteLiteral("\r\n    <div>\r\n        ");
 #nullable restore
 #line 10 "C:\Users\yanxu\Desktop\GobangGame\GobangGame\Views\Shared\_Layout.cshtml"

@@ -1,5 +1,6 @@
-﻿@model IQueryable<Game>
-@foreach (var g in Model)
+﻿@model RecordViewModel
+
+@foreach (var g in Model.Games)
 {
     <div>
         <h3>@g.ID</h3>
@@ -7,6 +8,8 @@
         <h4>@g.PlayerName</h4>
     </div>
 }
+
+<div page-model="@Model.PagingInfo" page-action="Index"></div>
 
 <h3>Welcome to Gobang Game!</h3>
 <p><h4>Gobang is a two-player abstrat strategy game generally played with Go pieces on a 15*15 Go Board.</h4></p>
@@ -22,5 +25,6 @@
         Gobang Game
     </figcaption>
 </figure>
+
 
 

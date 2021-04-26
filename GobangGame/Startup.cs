@@ -44,6 +44,7 @@ namespace GobangGame
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>{
+                endpoints.MapControllerRoute("pagination","Games/Page{gamePage}",new { Controller = "Home", action = "Index" });
                 endpoints.MapDefaultControllerRoute();
             });
             SeedData.EnsurePopulated(app);

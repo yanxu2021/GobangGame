@@ -65,14 +65,14 @@
 ## Step14
 
 Sprint plan(Backlog updated)
-Use the EF Database First with ASP.NET MVC approach to create the Gobang Game web application.
-Task 1 Create an ASP.NET web application with Visual Studio and set up the database.
-Task 2 Generate the models.
-Task 3 Generate the Views
-1.	Add scaffold.
-2.	Add links to new views.
-3.	Display game views.
-4.	Display record views.
+<p>Use the EF Database First with ASP.NET MVC approach to create the Gobang Game web application.</p>
+<ui>Task 1 Create an ASP.NET web application with Visual Studio and set up the database.</ui>
+<ui>Task 2 Generate the models.</ui>
+<ui>Task 3 Generate the Views</ui>
+<ui><li>Add scaffold.</li>
+<li>Add links to new views.</li>
+<li>Display game views.</li>
+<li>Display record views.<li><ui>
 Task 4 change the database.
 1.	Add a column.
 2.	Add the property to the views.

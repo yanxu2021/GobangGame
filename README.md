@@ -118,7 +118,9 @@ Sprint plan(Backlog updated)
 
 ## Step15
 Sprint Review:
-<img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/1Folders%20for%20MVC.JPG">
+<img src="https://github.com/yanxu2021/GobangGame/blob/master/Sprint/Sprint2%20Review.JPG">
+The Web Views are ready for next task: 
+Task 7 Deploy Gobang Game app to Azure with Azure SQL Database.
 
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!

@@ -75,7 +75,7 @@ Sprint plan(Backlog updated)
 <li>Display record views.<li></ui>
 <ui>Task 4 change the database.</ui>
 <ui><li>Add a column.</li>
-<li>Add the property to the views.</li>
+<li>Add the property to the views.</li></ui>
 <ui>Task 5 Customize view.</ui>
 <ui><li>Add record detail page.</li>
 <li>Confirm that new record added to the page.</li>

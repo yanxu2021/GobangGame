@@ -117,6 +117,8 @@ Sprint plan(Backlog updated)
 
 
 ## Step15
+Sprint Review:
+<img src="https://github.com/yanxu2021/GobangGame/blob/master/ScreenShots/1Folders%20for%20MVC.JPG">
 
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!

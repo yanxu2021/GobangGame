@@ -75,7 +75,7 @@ Sprint plan(Backlog updated)
 <ui><li>Add scaffold.</li>
 <li>Add links to new views.</li>
 <li>Display game views.</li>
-<li>Display record views.<li></ui>
+<li>Display record views.</li></ui>
 
 <ui>Task 4 change the database.</ui>
 

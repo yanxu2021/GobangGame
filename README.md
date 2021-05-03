@@ -73,39 +73,39 @@ Sprint plan(Backlog updated)
 <li>Add links to new views.</li>
 <li>Display game views.</li>
 <li>Display record views.<li><ui>
-Task 4 change the database.
-1.	Add a column.
-2.	Add the property to the views.
-Task 5 Customize view.
-1.	Add record detail page.
-2.	Confirm that new record added to the page.
-Task 6 Enhance data validation.
-1.	Add data annotations.
-2.	Add metadata classes.
-Task 7 Deploy Gobang Game app to Azure with Azure SQL Database
-1.	Within Visual Studio solution Explorer-publish to Azure as target.
-2.	Sign in and add an app.
-3.	Configure the web app name.
-4.	Create a resource group.
-5.	Create an App service plan.
-6.	Create a server and database.
-7.	Configure database connection.
-8.	Deploy Gobang Game app.
-Task 8 Access the database locally.
-1.	Create a database connection.
-2.	Configure the database connection.
-3.	Create a new firewall to allow client connection.
-Task 9 Update app with Code First Migration.
-1.	Update data model.
-2.	Run Code First Migrations locally.
-3.	Use the new property.
-4.	Enable Code First Migrations in Azure.
-5.	Publish changes.
-Task 10 Stream application logs.
-1.	Enable log streaming.
-2.	Change trace levels.
-3.	Stop log streaming.
-Task 11 Manage Azure app.
+<ui>Task 4 change the database.</ui>
+<ui><li>Add a column.<li>
+<li>Add the property to the views.</li>
+<ui>Task 5 Customize view.</ui>
+<ui><li>Add record detail page.</li>
+<li>Confirm that new record added to the page.</li>
+<ui>Task 6 Enhance data validation.</ui>
+<ui><li>Add data annotations.</li>
+<li>Add metadata classes.</li></ui>
+<ui>Task 7 Deploy Gobang Game app to Azure with Azure SQL Database.</ui>
+<ui><li>Within Visual Studio solution Explorer-publish to Azure as target.</li>
+<li>Sign in and add an app.</li>
+<li>Configure the web app name.</li>
+<li>Create a resource group.</li>
+<li>Create an App service plan.</li>
+<li>Create a server and database.</li>
+<li>Configure database connection.</li>
+<li>Deploy Gobang Game app.</li></ui>
+<ui>Task 8 Access the database locally.</ui>
+<ui><li>Create a database connection.</li>
+<li>Configure the database connection.</li>
+<li>Create a new firewall to allow client connection.</li></ui>
+<ui>Task 9 Update app with Code First Migration.<ui>
+<ui><li>Update data model.</li>
+<li>Run Code First Migrations locally.</li>
+<li>Use the new property.</li>
+<li>Enable Code First Migrations in Azure.</li>
+<li>Publish changes.</li></ui>
+<ui>Task 10 Stream application logs.</ui>
+<ui><li>Enable log streaming.</li>
+<li>Change trace levels.</li>
+<li>Stop log streaming.</li></ui>
+<ui>Task 11 Manage Azure app.</ui>
 
 
 
